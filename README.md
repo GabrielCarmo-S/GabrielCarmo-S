@@ -1,7 +1,26 @@
-### Hi there 👋
+### Olá 👋
 
-<img src="./github/api.svg">
+<a href="https://linkedin.com/in/GabrielCarmo-S">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/GabrielCarmo-S">
+  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-https://github-readme-stats.vercel.app/api?username=GabrielCarmo-S&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = GabrielCarmo-S )]
+-🔭 Atualmente, estou trabalhando em novos projetos.
+-🌱 Atualmente, estou aprendendo mais sobre o CodeIgniter.
+-💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia.
+-📫 Como entrar em contato comigo: Linkedin - @GabrielCarmo-S
+
+Languages and Tools:
+
+
+<div align="center">
+	<img src="./github/api1.svg">
+	<img src="./github/api.svg">
+</div>
+
+
+
+

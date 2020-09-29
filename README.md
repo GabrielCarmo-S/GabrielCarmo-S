@@ -1,17 +1,19 @@
 ### Olá 👋
 
-<a href="https://linkedin.com/in/GabrielCarmo-S">
+<a href="https://www.linkedin.com/in/gabrielcarmo-s/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/GabrielCarmo-S">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+ <br />
+ <br />
 
--🔭 Atualmente, estou trabalhando em novos projetos.
--🌱 Atualmente, estou aprendendo mais sobre o CodeIgniter.
--💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia.
--📫 Como entrar em contato comigo: Linkedin - @GabrielCarmo-S
+- 🔭 Atualmente, estou trabalhando em novos projetos.
+- 🌱 Atualmente, estou aprendendo mais sobre o CodeIgniter.
+- 💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia.
+
 
 Languages and Tools:
 

@@ -20,7 +20,7 @@ Languages and Tools:
 
 <div align="center">
 	<img src="./github/api1.svg">
-	<img src="./github/api.svg">
+	<img src="./github/api.svg" style="margin-bottom: 10px;">
 </div>
 
 

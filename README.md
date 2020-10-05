@@ -14,11 +14,11 @@
 - 🌱 Atualmente, estou aprendendo mais sobre o CodeIgniter.
 - 💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia.
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/GabrielCarmo-S">
   <img align="center" img src="./github/api1.svg">
 </a>
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/GabrielCarmo-S">
   <img align="center" img src="./github/api.svg">
 </a>
 

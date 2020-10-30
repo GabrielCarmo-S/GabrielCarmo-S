@@ -1,26 +1,29 @@
-### Olá 👋
+### Hi there, I'm [Gabriel Carmo!](https://gabrielcarmo-s.github.io) 👋
 
-<a href="https://www.linkedin.com/in/gabrielcarmo-s/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/GabrielCarmo-S">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Carmo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarmo-s/)](https://www.linkedin.com/in/gabrielcarmo-s/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-gabriekcarmk@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriekcarmk@gmail.com)](mailto:gabriekcarmk@gmail.com)
 
  <br />
  <br />
 
-- 🔭 Atualmente, estou trabalhando em novos projetos.
-- 🌱 Atualmente, estou aprendendo mais sobre o CodeIgniter.
-- 💬 Pergunte-me sobre qualquer coisa relacionada à tecnologia.
+Hi, I'm Gabriel Carmo, enthusiast of the best web & mobile development technologies.
 
-<a href="https://github.com/GabrielCarmo-S">
-  <img align="center" img src="./github/api1.svg">
-</a>
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 
-<a href="https://github.com/GabrielCarmo-S">
-  <img align="center" img src="./github/api.svg">
-</a>
+<div align="center">
+
+[![Gabriel Carmo github stats](https://github-readme-stats.vercel.app/api?username=gabrielcarmo-s&theme=midnight-purple&show_icons=true)]
+
+[![Gabriel Carmo top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarmo-s&layout=compact)]
+</div>
+
+
+
+
 
 
 

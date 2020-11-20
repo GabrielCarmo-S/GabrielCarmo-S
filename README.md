@@ -1,4 +1,4 @@
-### Hi there, I'm [Gabriel Carmo!](https://gabrielcarmo-s.github.io) 👋
+### Hi there, I'm [Gabriel Carmo!]👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Carmo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcarmo-s/)](https://www.linkedin.com/in/gabrielcarmo-s/) 
 [![Gmail Badge](https://img.shields.io/badge/-gabriekcarmk@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriekcarmk@gmail.com)](mailto:gabriekcarmk@gmail.com)

@@ -15,8 +15,6 @@ Hi, I'm Gabriel Carmo, enthusiast of the best web & mobile development technolog
 
 <div align="center">
 
-[![Gabriel Carmo github stats](https://github-readme-stats.vercel.app/api?username=gabrielcarmo-s&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Gabriel Carmo top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcarmo-s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
